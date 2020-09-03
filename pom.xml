@@ -10,7 +10,7 @@
 
     <build>
         <plugins>
-            <!--添加mybatis generator 生产mapper接口插件-->
+            <!--添加mybatis generator 生产mapper接口插件xxx-->
             <plugin>
                 <groupId>org.mybatis.generator</groupId>
                 <artifactId>mybatis-generator-maven-plugin</artifactId>
